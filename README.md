@@ -13,6 +13,7 @@ Run locally (recommended)
    - npm install -g expo-cli
 2. From repository root:
    - npm install
+app.js
    - npm run start
 Ptettier
 Notes
