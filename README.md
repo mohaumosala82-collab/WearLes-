@@ -14,6 +14,7 @@ Run locally (recommended)
 2. From repository root:
    - npm install
 app.js
+
    - npm run start
 Ptettier
 Notes
