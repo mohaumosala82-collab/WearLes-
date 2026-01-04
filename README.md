@@ -14,7 +14,7 @@ Run locally (recommended)
 2. From repository root:
    - npm install
    - npm run start
-
+Ptettier
 Notes
 - Entry point: `app.js`
 - This refactor splits the single-file prototype into `src/screens`, `src/components`, and `src/navigation`.
